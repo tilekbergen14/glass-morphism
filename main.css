@@ -74,6 +74,8 @@ ul li{
     min-width: 400px;
     max-height: 400px;
     max-width: 500px;
+    display: flex;
+    align-items: center;
 }
 .animation{
     animation-name: move;
